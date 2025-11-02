@@ -1,0 +1,10 @@
+{
+  "name": "low-code-marketplace",
+  "version": "1.0.0",
+  "description": "Low-code and no-code integration platform marketplace - programmatically control automation platforms (N8N, Make.com, Zapier) to connect systems without building full applications",
+  "owner": {
+    "name": "AI Development Team",
+    "email": "noreply@low-code-marketplace.dev"
+  },
+  "plugins": []
+}
